@@ -168,14 +168,6 @@ advanced-drone-detection/
 ## DRONE DETECTED IN RESTRICTED ZONE
 ![DRONEDETECTIONUSINGMLANDOPENCV](Screenshot%202025-10-15%20223326.png)
 
-## Author
-
-**Shaik Ayan**
-
-GitHub: https://github.com/shaikayan13
-
-Computer Science Engineering Student
-
 ---
 
 ## License
