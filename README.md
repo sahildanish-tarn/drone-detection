@@ -174,5 +174,5 @@ advanced-drone-detection/
 
 This project is intended for educational and research purposes.
 
-## Project done by-
-S M Danish
+## Project done by
+S M Danish, Shaikh Ayaan
